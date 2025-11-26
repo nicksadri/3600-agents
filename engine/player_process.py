@@ -157,6 +157,11 @@ def run_player_process(
     import psutil
 
     sys.path.append(submission_dir)
+    sys.path.append(os.path.join(submission_dir, 'engine')) # Add engine to path so 'game' can be imported
+
+    print(f"DEBUG: sys.path: {sys.path}")
+    print(f"DEBUG: submission_dir: {submission_dir}")
+    print(f"DEBUG: CWD: {os.getcwd()}")
 
     print(use_gpu)
 
