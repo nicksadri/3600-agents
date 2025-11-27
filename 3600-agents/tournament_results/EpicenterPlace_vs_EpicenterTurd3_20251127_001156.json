@@ -1,0 +1,26 @@
+{
+  "player_a": "EpicenterPlace",
+  "player_b": "EpicenterTurd3",
+  "games_played": 1,
+  "total_time": 1.0863300830242224,
+  "total_turns": 11,
+  "wins": {
+    "player_a": 1,
+    "player_b": 0,
+    "ties": 0
+  },
+  "win_reasons": {
+    "CODE_CRASH": 1
+  },
+  "metrics": {
+    "a_total_eggs": 3,
+    "b_total_eggs": 3,
+    "a_avg_eggs": 3.0,
+    "b_avg_eggs": 3.0,
+    "a_timeouts": 0,
+    "b_timeouts": 1,
+    "a_crashes": 0,
+    "b_crashes": 0,
+    "trapdoor_triggers": 0
+  }
+}

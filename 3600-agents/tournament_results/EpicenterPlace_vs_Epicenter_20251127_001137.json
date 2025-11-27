@@ -1,0 +1,26 @@
+{
+  "player_a": "EpicenterPlace",
+  "player_b": "Epicenter",
+  "games_played": 10,
+  "total_time": 38.22050891802064,
+  "total_turns": 800,
+  "wins": {
+    "player_a": 2,
+    "player_b": 6,
+    "ties": 2
+  },
+  "win_reasons": {
+    "EGGS_LAID": 10
+  },
+  "metrics": {
+    "a_total_eggs": 206,
+    "b_total_eggs": 198,
+    "a_avg_eggs": 20.6,
+    "b_avg_eggs": 19.8,
+    "a_timeouts": 0,
+    "b_timeouts": 0,
+    "a_crashes": 0,
+    "b_crashes": 0,
+    "trapdoor_triggers": 12
+  }
+}

@@ -30,7 +30,7 @@ class PlayerAgent:
         self.map_size = board.game_map.MAP_SIZE
 
         # Search settings
-        self.max_search_depth = 3       # iterative deepening up to this
+        self.max_search_depth = 3      # iterative deepening up to this
         self.global_safety_margin = 0.2 # leave a bit of time unspent overall
         self.max_per_move_time = 4.0    # hard cap per move in seconds
 

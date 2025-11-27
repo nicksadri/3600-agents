@@ -329,7 +329,6 @@ def play_game(
         not game_board.is_game_over()
     ):
         # wait for .75 sec
-        # time.sleep(.25)
         if display_game:
             init_display(game_board, "PLAYER A", "PLAYER B")
 
@@ -407,6 +406,8 @@ def play_game(
 
         if not game_board.is_game_over():
             game_board.reverse_perspective()
+        
+        # time.sleep(.50)
 
     win_result = game_board.get_winner()
 
