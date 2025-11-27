@@ -1,0 +1,26 @@
+{
+  "player_a": "Epicenter",
+  "player_b": "Adam",
+  "games_played": 20,
+  "total_time": 34.147131124002044,
+  "total_turns": 1600,
+  "wins": {
+    "player_a": 18,
+    "player_b": 2,
+    "ties": 0
+  },
+  "win_reasons": {
+    "EGGS_LAID": 20
+  },
+  "metrics": {
+    "a_total_eggs": 316,
+    "b_total_eggs": 381,
+    "a_avg_eggs": 15.8,
+    "b_avg_eggs": 19.05,
+    "a_timeouts": 0,
+    "b_timeouts": 0,
+    "a_crashes": 0,
+    "b_crashes": 0,
+    "trapdoor_triggers": 10
+  }
+}

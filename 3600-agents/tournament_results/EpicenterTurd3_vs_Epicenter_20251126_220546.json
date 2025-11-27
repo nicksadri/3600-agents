@@ -1,0 +1,26 @@
+{
+  "player_a": "EpicenterTurd3",
+  "player_b": "Epicenter",
+  "games_played": 50,
+  "total_time": 97.37100703688338,
+  "total_turns": 4000,
+  "wins": {
+    "player_a": 23,
+    "player_b": 25,
+    "ties": 2
+  },
+  "win_reasons": {
+    "EGGS_LAID": 50
+  },
+  "metrics": {
+    "a_total_eggs": 939,
+    "b_total_eggs": 930,
+    "a_avg_eggs": 18.78,
+    "b_avg_eggs": 18.6,
+    "a_timeouts": 0,
+    "b_timeouts": 0,
+    "a_crashes": 0,
+    "b_crashes": 0,
+    "trapdoor_triggers": 58
+  }
+}

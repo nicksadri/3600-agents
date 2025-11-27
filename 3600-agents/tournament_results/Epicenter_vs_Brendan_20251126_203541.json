@@ -1,0 +1,26 @@
+{
+  "player_a": "Epicenter",
+  "player_b": "Brendan",
+  "games_played": 10,
+  "total_time": 2.5775124990177574,
+  "total_turns": 0,
+  "wins": {
+    "player_a": 0,
+    "player_b": 10,
+    "ties": 0
+  },
+  "win_reasons": {
+    "CODE_CRASH": 10
+  },
+  "metrics": {
+    "a_total_eggs": 0,
+    "b_total_eggs": 0,
+    "a_avg_eggs": 0.0,
+    "b_avg_eggs": 0.0,
+    "a_timeouts": 0,
+    "b_timeouts": 0,
+    "a_crashes": 10,
+    "b_crashes": 0,
+    "trapdoor_triggers": 0
+  }
+}

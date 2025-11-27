@@ -1,0 +1,27 @@
+{
+  "player_a": "Carlos",
+  "player_b": "Brendan",
+  "games_played": 10,
+  "total_time": 84.81000371099799,
+  "total_turns": 795,
+  "wins": {
+    "player_a": 2,
+    "player_b": 7,
+    "ties": 1
+  },
+  "win_reasons": {
+    "BLOCKING_END": 2,
+    "EGGS_LAID": 8
+  },
+  "metrics": {
+    "a_total_eggs": 217,
+    "b_total_eggs": 160,
+    "a_avg_eggs": 21.7,
+    "b_avg_eggs": 16.0,
+    "a_timeouts": 0,
+    "b_timeouts": 0,
+    "a_crashes": 0,
+    "b_crashes": 0,
+    "trapdoor_triggers": 10
+  }
+}

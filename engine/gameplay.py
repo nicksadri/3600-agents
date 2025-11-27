@@ -328,6 +328,8 @@ def play_game(
         # game_board.turn_count < 2 * game_board.MAX_TURNS
         not game_board.is_game_over()
     ):
+        # wait for .75 sec
+        # time.sleep(.25)
         if display_game:
             init_display(game_board, "PLAYER A", "PLAYER B")
 

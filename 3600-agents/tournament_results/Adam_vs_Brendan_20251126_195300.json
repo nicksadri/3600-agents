@@ -1,0 +1,27 @@
+{
+  "player_a": "Adam",
+  "player_b": "Brendan",
+  "games_played": 84,
+  "total_time": 44.315886662050616,
+  "total_turns": 6577,
+  "wins": {
+    "player_a": 35,
+    "player_b": 32,
+    "ties": 17
+  },
+  "win_reasons": {
+    "EGGS_LAID": 82,
+    "CODE_CRASH": 2
+  },
+  "metrics": {
+    "a_total_eggs": 1211,
+    "b_total_eggs": 1198,
+    "a_avg_eggs": 14.416666666666666,
+    "b_avg_eggs": 14.261904761904763,
+    "a_timeouts": 1,
+    "b_timeouts": 1,
+    "a_crashes": 0,
+    "b_crashes": 0,
+    "trapdoor_triggers": 0
+  }
+}
